@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "364271911929",
+    "firebase_url": "https://prueba-notificaciones-f7845.firebaseio.com",
+    "project_id": "prueba-notificaciones-f7845",
+    "storage_bucket": "prueba-notificaciones-f7845.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:364271911929:android:46917ba0d9773cc481f328",
+        "android_client_info": {
+          "package_name": "com.noti"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "364271911929-iivr7tii9aqj3tb7ckbvrdehg51437p6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUEj0g8Twy26Xoz9fqTaP8ZYEKKvurSrA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "364271911929-iivr7tii9aqj3tb7ckbvrdehg51437p6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
